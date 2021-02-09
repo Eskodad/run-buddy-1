@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://Eskodad.github.io/run-buddy-1/
+https://eskodad.github.io/run-buddy-1/
 
 ## Contribution
 Made with ❤️ by Sahr Koroma

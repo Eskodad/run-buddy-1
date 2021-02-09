@@ -12,3 +12,5 @@ https://eskodad.github.io/run-buddy-1/
 
 ## Contribution
 Made with ❤️ by Sahr Koroma
+
+©️2019 Run Buddy, Inc
